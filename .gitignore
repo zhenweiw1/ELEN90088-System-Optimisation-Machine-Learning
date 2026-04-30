@@ -1,0 +1,21 @@
+# Datasets (too large for git)
+workshop2/data/
+**/cifar-10-batches-py/
+**/cifar-10-python.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
